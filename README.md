@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-    <img src="https://imgur.com/ZPZdE1Y.png" alt="Logo" width="1000">
+    <img src="https://media.discordapp.net/attachments/721933877110767728/724105821612408904/musicc.gif" alt="Logo" width="1000">
 
   <h3 align="center">Music Library Page by <a href="https://www.linkedin.com/in/emmanuel-messias-535621127/">Emmanuel Messias</a></h3>
  <br />
